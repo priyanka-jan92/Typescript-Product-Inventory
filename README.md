@@ -1,10 +1,10 @@
-# 📦 Product Inventory Manager
+#  Product Inventory Manager
 
 A browser-based Product Inventory Manager developed using **TypeScript** and **Tailwind CSS**.
 
 This project demonstrates the use of basic TypeScript concepts such as data types, functions, scope, interfaces, arrays, union types, DOM manipulation, and TypeScript compilation.
 
-## ✨ Features
+##  Features
 
 - Add new products to the inventory
 - Display total number of products
@@ -17,7 +17,7 @@ This project demonstrates the use of basic TypeScript concepts such as data type
 - Responsive and modern user interface
 - Styled using Tailwind CSS
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - TypeScript
@@ -27,7 +27,7 @@ This project demonstrates the use of basic TypeScript concepts such as data type
 - GitHub
 - GitHub Pages
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 TypescriptProject/
